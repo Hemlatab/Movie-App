@@ -1,10 +1,11 @@
 import React from "react";
-import ReactDOM from "react-dom";
 
-function ViewMovies(){
-    return(
-
-    );
+function ViewMovies() {
+  return (
+    <div>
+      <h1>view</h1>
+    </div>
+  );
 }
 
 export default ViewMovies;
